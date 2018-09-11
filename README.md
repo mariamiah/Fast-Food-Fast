@@ -22,7 +22,7 @@ git clone https://github.com/mariamiah/Fast-Food-Fast.git
 ## Github Pages
 Preview this application using the following link
 ```
-https://
+https://mariamiah.github.io/Fast-Food-Fast/
 ```
 ### Authors
 
