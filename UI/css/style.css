@@ -134,6 +134,18 @@ form {
     border-radius: 12%;
 
 }
+/* Add style to text boxes */
+.login input[type=text] {
+    width: 70%;
+    height: auto;
+    padding: 10px 10px;
+    margin-left: 10%;
+    margin-bottom: 5px;
+    color: black;
+    border-color: mediumturquoise;
+    border-radius: 12%;
+
+}
 
 /* Add style to the password box*/
 .login input[type=password] {
