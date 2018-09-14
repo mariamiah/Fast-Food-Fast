@@ -185,6 +185,23 @@ label {
     color: red;
     font-weight: bolder;
 }
+/* Style about us page*/
+.about1 {
+    float: center;
+    background-color:lightgoldenrodyellow;
+    margin-left: 26%;
+    margin-top: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    width: 50%;
+}
+.about1 h3{
+    text-align:center;
+}
+.about1 p{
+    text-align:center;
+    font-weight:bold;
+}
 
 /*Add responsiveness for a mobile phone device*/
 @media only screen and (min-width: 280px) and (max-width: 480px) {
