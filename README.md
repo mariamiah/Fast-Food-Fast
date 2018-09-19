@@ -21,7 +21,7 @@ git clone https://github.com/mariamiah/Fast-Food-Fast.git
 ```
 ## Github Pages
 ### LINK TO Fast-Food-Fast on Github Pages
-### [Fast-Food-Fast](https://mariahmiah.github.io/Fast-Food-Fast)
+### [Fast-Food-Fast](https://mariahmiah.github.io/Fast-Food-Fast/index.html)
 ### Authors
 
 * **Maria Nanfuka** 
