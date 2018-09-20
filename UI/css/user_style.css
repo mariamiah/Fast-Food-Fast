@@ -161,3 +161,185 @@
     
 }
 
+/* Make user page responsive */
+/*Add responsiveness for a mobile phone device*/
+@media only screen and (min-width: 280px) and (max-width: 480px) {
+.sidenav{
+    width:53%;
+    height:52%;
+}
+.main{
+    width:10%;
+    height:60%;
+
+}
+.deals{
+    width:80%;
+    margin-top:-40%;
+    margin-left:-500%;
+}
+
+/* Add responsiveness for smaller tablet devices*/
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    .topnav ul {
+        margin-left: 10%;
+        margin-top: 5px;
+    }
+
+    .topnav ul li {
+        display: inline-block;
+        padding: 5px 10px;
+        color: darkgreen;
+    }
+
+    .login {
+        width: 80%;
+        height: auto;
+        border: solid thin lightgreen;
+        margin-top: 5px;
+        background-color: white;
+        margin-left: 13%;
+    }
+
+    .main {
+        display: flow-root;
+        height: 100%;
+        width: 80%;
+
+    }
+
+
+    img {
+        height: 200px;
+        max-width: 80%;
+        margin-left: 9%;
+    }
+
+
+
+    body {
+        background-color: pink;
+    }
+
+    #logo {
+        height: auto;
+        width: 70%;
+        margin-left: 11%;
+    }
+
+    #submitbutton {
+        height: auto;
+        width: 45%;
+        padding: 10px 15px;
+        margin-left: 25%;
+    }
+}
+
+
+
+/*Add responsiveness for larger tablet devices*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .topnav ul {
+        margin-left: 10%;
+        margin-top: 5px;
+    }
+
+    .topnav ul li {
+        display: inline-block;
+        padding: 5px 10px;
+    }
+
+
+    .login {
+        height: auto;
+        border: solid thin lightgreen;
+        margin-top: 5px;
+        background-color: white;
+        margin-left: 30%;
+        max-width: 100%;
+    }
+
+    .main {
+        display: flow-root;
+        height: 100%;
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    img {
+        height: 200px;
+        width: 80%;
+        margin-left: 9%;
+    }
+
+
+    body {
+        background-color: lightseagreen;
+    }
+
+}
+
+/*Add responsiveness for medium devices like desktops*/
+
+@media only screen and (min-width: 768px) and (max-width: 1080px) {
+    .topnav ul {
+        margin-left: 10%;
+        margin-top: 5px;
+    }
+
+    .topnav ul li {
+        display: inline-block;
+        padding: 5px 10px;
+    }
+
+    .login {
+
+        width: 60%;
+        height: auto;
+        border: solid thin lightgreen;
+        margin-top: 5px;
+        background-color: white;
+        margin-left: 20%;
+
+    }
+
+    .main {
+        display: flow-root;
+        height: 100%;
+        width: 80%;
+        margin-left: 10%;
+
+    }
+
+    img {
+        height: 270px;
+        max-width: 70%;
+        margin-left: 14%;
+    }
+
+    #logo {
+        height: auto;
+        width: 60%;
+        margin-left: 17%;
+    }
+
+    body {
+        background-color: rgb(140, 202, 181);
+    }
+}
+
+@media only screen and (min-width: 1081px) and (max-width: 1500px) {
+    #logo {
+        height: auto;
+        width: 70%;
+        margin-left: 12%;
+    }
+
+    #submitbutton {
+        height: auto;
+        width: 45%;
+        padding: 10px 15px;
+        margin-left: 30%;
+    }
+
+}
