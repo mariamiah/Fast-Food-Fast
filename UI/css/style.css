@@ -134,6 +134,18 @@ form {
     border-radius: 12%;
 
 }
+/* Add style to text boxes */
+.login input[type=text] {
+    width: 70%;
+    height: auto;
+    padding: 10px 10px;
+    margin-left: 10%;
+    margin-bottom: 5px;
+    color: black;
+    border-color: mediumturquoise;
+    border-radius: 12%;
+
+}
 
 /* Add style to the password box*/
 .login input[type=password] {
@@ -172,6 +184,23 @@ label {
 #account a {
     color: red;
     font-weight: bolder;
+}
+/* Style about us page*/
+.about1 {
+    float: center;
+    background-color:lightgoldenrodyellow;
+    margin-left: 26%;
+    margin-top: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    width: 50%;
+}
+.about1 h3{
+    text-align:center;
+}
+.about1 p{
+    text-align:center;
+    font-weight:bold;
 }
 
 /*Add responsiveness for a mobile phone device*/

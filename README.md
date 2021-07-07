@@ -20,10 +20,8 @@ Clone this repository onto your local machine by using the command below:
 git clone https://github.com/mariamiah/Fast-Food-Fast.git
 ```
 ## Github Pages
-Preview this application using the following link
-```
-https://
-```
+### LINK TO Fast-Food-Fast on Github Pages
+### [Fast-Food-Fast](https://mariamiah.github.io/Fast-Food-Fast/index.html)
 ### Authors
 
 * **Maria Nanfuka** 
